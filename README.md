@@ -21,3 +21,28 @@ Gosto de transformar informações em soluções práticas, explorar padrões no
 ---
 
 ## Projeto em Destaque
+
+**Análise Financeira e Estratégica das Transferências do Tottenham Hotspur (2019–2025)**
+
+Este projeto tem como objetivo analisar o comportamento do Tottenham Hotspur no mercado de transferências entre as temporadas 2019/20 e 2025/26, transformando dados esportivos em informações estratégicas para apoiar a tomada de decisão.
+
+Através de técnicas de tratamento, exploração e visualização de dados, busco identificar padrões de investimento, perfil de contratações, desempenho financeiro e mudanças na estratégia do clube ao longo dos anos.
+
+Principais questões analisadas:
+- O Tottenham está contratando de forma eficiente?
+- Qual foi o saldo financeiro do clube em transferências?
+- Quais posições receberam mais investimentos?
+- Existe um perfil predominante de atletas contratados?
+- A estratégia de mercado mudou ao longo das temporadas?
+- O clube atua mais como comprador ou vendedor de jogadores?
+
+Ferramentas utilizadas:
+
+- Excel
+- Power Query
+
+Fonte dos dados:
+- Transfermarkt
+- Sofascore
+
+📊 O projeto envolve limpeza de dados, análise exploratória, construção de indicadores e desenvolvimento de dashboards para transformar informações do mercado de transferências em insights acionáveis.
