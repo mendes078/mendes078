@@ -17,3 +17,7 @@ Gosto de transformar informações em soluções práticas, explorar padrões no
 📚 Sempre aprendendo algo novo sobre Dados, Business Intelligence e tecnologia.
 
 🚀 Em busca de oportunidades para aplicar meus conhecimentos, desenvolver experiência prática e crescer profissionalmente na área de Dados.
+
+---
+
+## Projeto em Destaque
