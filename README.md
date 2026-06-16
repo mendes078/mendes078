@@ -8,10 +8,12 @@ Desenvolvendo conhecimentos em coleta, tratamento e análise de dados com o obje
 
 ## Sobre
 
-Sou estudante de Ciência da Computação, com foco em Análise de Dados e Business Intelligence.
+Olá! Sou Kaike Mendes, estudante de Ciência da Computação e entusiasta da área de Dados.
 
-Tenho interesse em transformar dados em informações relevantes para apoiar a tomada de decisão, utilizando ferramentas como Excel, Power BI, SQL e Python. Atualmente, desenvolvo projetos voltados à análise exploratória de dados, construção de dashboards e criação de indicadores de desempenho.
+Atualmente, estou aprofundando meus conhecimentos em Excel, Power BI, SQL e Python, desenvolvendo projetos que envolvem tratamento, análise e visualização de dados para gerar insights e apoiar decisões de negócio.
 
-Estou constantemente aprimorando meus conhecimentos em visualização de dados, modelagem de bancos de dados, estatística aplicada e automação de análises, buscando unir visão de negócio e habilidades técnicas para gerar insights de valor.
+Gosto de transformar informações em soluções práticas, explorar padrões nos dados e construir dashboards que facilitem a interpretação dos resultados.
 
-🎯 Objetivo atual: construir um portfólio sólido de projetos de dados e conquistar uma oportunidade de estágio na área de Dados ou Business Intelligence.
+📚 Sempre aprendendo algo novo sobre Dados, Business Intelligence e tecnologia.
+
+🚀 Em busca de oportunidades para aplicar meus conhecimentos, desenvolver experiência prática e crescer profissionalmente na área de Dados.
