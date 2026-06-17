@@ -47,20 +47,27 @@ Ferramentas utilizadas:
 
 ### Dados, BI e SQL
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png" width="50" alt="Google Sheets"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
-</p>
+<table>
+<tr>
+<td align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="50"><br>
+<strong>![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</strong>
+
+</td>
+
+<td align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/960px-Power_BI_logo.svg.png" width="50"><br>
+<strong>![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</strong>
+
+</td>
+</tr>
+</table>
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
