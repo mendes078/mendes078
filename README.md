@@ -143,3 +143,8 @@ Ferramentas utilizadas:
 
 </tr>
 </table>
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/kaike-mendes-3539b4292/
+- Email: kaikemendes729@gmail.com
