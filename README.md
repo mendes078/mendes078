@@ -133,5 +133,13 @@ Ferramentas utilizadas:
 
 </td>
 
+<td align="center">
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="50"><br>
+<strong>![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)</strong>
+
+</td>
+
+
 </tr>
 </table>
